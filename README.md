@@ -86,13 +86,13 @@ Want to improve this project? Follow these steps:
 
 ## 📜 License
 
-This project is **open-source** and available under the **MIT License**.
+This project is **open-source** and available under the [**MIT License**](LICENSE).
 
 ---
 
 ## 🎉 Acknowledgments
 
-- **GreatStack** - Original tutorial inspiration [here]()
+- **GreatStack** - Original tutorial inspiration [here](https://www.youtube.com/@GreatStackDev)
 - **OpenWeather API** - Weather data provider
 - **Icons** - [Icons8](https://icons8.com)
 
